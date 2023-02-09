@@ -1,1 +1,3 @@
-ta test no xem day thang duoc khong
+run bash to auto exicuted multi commandline at one
+$ bash autoPro.sh
+$ bash gitauto.sh
