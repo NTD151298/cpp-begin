@@ -1,6 +1,14 @@
 #!bin/bash/
-mkdir c-variables
-cd c-variables
-touch c-variables.cpp
-echo -e '#include<iostream>\n\nusing namespace std;\n\nint main() {\n\tcout << "Start!" << " ";\n\n\treturn 0;\n}' >> c-variables.cpp
+mkdir 123
+cd 123
+touch 123.cpp
+echo  '#include<iostream> 
+
+using namespace std;
+
+int main() {
+    cout << "Start!" << " \n";
+    
+    return 0;
+}' >> 123.cpp
 
