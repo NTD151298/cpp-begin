@@ -11,14 +11,17 @@ int main() {
     char d1 = '1'; cout << d1 << "\n";
     string aa = "Nguyen Thai Duong";
     cout << aa << "\n";
-    return 0;
-}
-#include<iostream> 
-
-using namespace std;
-
-int main() {
-    cout << "Start!" << " \n";
-    
+    int a1 = 15, b1 = 12;
+    cout << "(a1 > b1): " << (a1 > b1) << "\n";
+    cout << "(a1 < b1): " << (a1 < b1) << "\n";
+    cout << "(a1 == 15): " << (a1 == 15) << "\n";
+    int a2, b2; cin >> a2; cin >> b2; cout << "\n";
+    if (a2 > b2){
+        cout << " Day la a2 > b2" << "\n";
+    }else if (a2 < b2){
+        cout << " Day la a2 < b2" << "\n";
+    }else {
+        cout << " Day la a2 = b2" << "\n";
+    }
     return 0;
 }
