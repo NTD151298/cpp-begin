@@ -1,7 +1,7 @@
 #!bin/bash/
-mkdir C++Assignment-Operators
-cd C++Assignment-Operators
-touch C++Assignment-Operators.cpp
+mkdir C++Strings
+cd C++Strings
+touch C++Strings.cpp
 echo  '#include<iostream> 
 #include<string> 
 
@@ -11,7 +11,7 @@ int main() {
     cout << "Start!" << " \n";
     
     return 0;
-}' >> C++Assignment-Operators.cpp
+}' >> C++Strings.cpp
 
 
  #To run :              bash autoPro.sh

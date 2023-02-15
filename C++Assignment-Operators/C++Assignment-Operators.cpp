@@ -18,3 +18,13 @@ int main() {
     x <<= 5; cout << x << " x <<= 5\n"; 
     return 0;
 }
+#include<iostream> 
+#include<string> 
+
+using namespace std;
+
+int main() {
+    cout << "Start!" << " \n";
+    
+    return 0;
+}
