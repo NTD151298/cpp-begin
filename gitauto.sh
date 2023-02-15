@@ -1,6 +1,6 @@
 #!bin/bash/
 git add .
-git commit -m "Done C++Math in 55' start at 10h30am end at 11h25am on 15-02-2023"
+git commit -m "Done C++Conditions-and-If-Statements in 30' start at 02h00pm end at 02h30pm on 15-02-2023"
 git push -u origin main 
 
 

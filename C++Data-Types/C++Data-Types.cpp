@@ -5,12 +5,12 @@ using namespace std;
 int main() {
 
     cout << "Start!" << " \n";
-    int a = 5;               // Integer (whole number)
-    float b = 5.99;     // Floating point number
-    double c = 9.98;   // Floating point number
-    char d = 'D';         // Character
-    bool e = true;       // Boolean
-    string s = "Hello";     // String 
+    int a = 5;                  // Integer (whole number)
+    float b = 5.99;             // Floating point number
+    double c = 9.98;            // Floating point number
+    char d = 'D';               // Character
+    bool e = true;              // Boolean
+    string s = "Hello";         // String 
     cout << "Integer (whole number) " << a << "\n";
     cout << "Floating point number " << b << "\n";
     cout << "Floating point number " << c << "\n";
