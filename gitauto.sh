@@ -1,6 +1,6 @@
 #!bin/bash/
 git add .
-git commit -m "Done C++Conditions-and-If-Statements in 30' start at 02h00pm end at 02h30pm on 15-02-2023"
+git commit -m "Done C++Switch in 30' start at 05h00pm end at 05h30pm on 17-02-2023"
 git push -u origin main 
 
 

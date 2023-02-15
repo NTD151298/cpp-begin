@@ -1,7 +1,7 @@
 #!bin/bash/
-mkdir C++Conditions-and-If-Statements
-cd C++Conditions-and-If-Statements
-touch C++Conditions-and-If-Statements.cpp
+mkdir C++Switch
+cd C++Switch
+touch C++Switch.cpp
 echo  '#include<iostream> 
 #include<string> 
 #include <cmath>
@@ -14,7 +14,7 @@ int main() {
     cout << "a = " << a << "\n";
 
     return 0;
-}' >> C++Conditions-and-If-Statements.cpp
+}' >> C++Switch.cpp
 
 
  #To run :              bash autoPro.sh
