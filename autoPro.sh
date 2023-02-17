@@ -1,7 +1,7 @@
 #!bin/bash/
-mkdir C++Switch
-cd C++Switch
-touch C++Switch.cpp
+mkdir C++While-Loop
+cd C++While-Loop
+touch C++While-Loop.cpp
 echo  '#include<iostream> 
 #include<string> 
 #include <cmath>
@@ -14,7 +14,7 @@ int main() {
     cout << "a = " << a << "\n";
 
     return 0;
-}' >> C++Switch.cpp
+}' >> C++While-Loop.cpp
 
 
  #To run :              bash autoPro.sh
