@@ -1,7 +1,7 @@
 #!bin/bash/
-mkdir C++While-Loop
-cd C++While-Loop
-touch C++While-Loop.cpp
+mkdir C++For-Loop
+cd C++For-Loop
+touch C++For-Loop.cpp
 echo  '#include<iostream> 
 #include<string> 
 #include <cmath>
@@ -14,7 +14,7 @@ int main() {
     cout << "a = " << a << "\n";
 
     return 0;
-}' >> C++While-Loop.cpp
+}' >> C++For-Loop.cpp
 
 
  #To run :              bash autoPro.sh
