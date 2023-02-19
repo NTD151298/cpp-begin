@@ -1,7 +1,7 @@
 #!bin/bash/
-mkdir C++For-Loop
-cd C++For-Loop
-touch C++For-Loop.cpp
+mkdir C++Break-and-Continue
+cd C++Break-and-Continue
+touch C++Break-and-Continue.cpp
 echo  '#include<iostream> 
 #include<string> 
 #include <cmath>
@@ -14,7 +14,7 @@ int main() {
     cout << "a = " << a << "\n";
 
     return 0;
-}' >> C++For-Loop.cpp
+}' >> C++Break-and-Continue.cpp
 
 
  #To run :              bash autoPro.sh
